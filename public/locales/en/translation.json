@@ -1,0 +1,50 @@
+{
+	"hero": {
+		"title": "Swipe. Learn. Grow!",
+		"subtitle": "Your Personalized Wikipedia Hub – Explore Trending Topics, Smart Search, Audio Summaries & Effortless Reading, All in One Place! 🚀",
+		"globe_title": "GyanGanj Transforms the Way You Discover Knowledge.",
+		"main_button_text": "Download on github",
+		"secondary_button_text": "Go to animated version"
+	},
+	"hero_animated": {
+		"secondary_button_text": "Go to base version"
+	},
+	"header": {
+		"features": "Features",
+		"pricing": "Pricing",
+		"blog": "Blog",
+		"contact": "Contacts",
+		"primary_button_text": "Download",
+		"secondary_button_text": "Login"
+	},
+	"features": {
+		"learn_more": "Learn more",
+		"title": "Features",
+		"subtitle": "Infinte ♾️ Knowledge",
+		"description": "A discovery platform that brings Wikipedia content to life with TikTok-style scrolling, audio summaries, and seamless search. Stay updated with trending topics, save articles for later, and share knowledge effortlessly. ✨",
+		"astro": "Seamless TikTok-style vertical scrolling for uninterrupted knowledge discovery.",
+		"alpine": "Quickly find relevant Wikipedia articles with an AI-enhanced search feature.",
+		"tailwind": "Stay updated with the latest and most relevant articles from Wikipedia.",
+		"localization": "Convert article summaries into audio for a hands-free learning experience.",
+		"light_dark_mode": "Easily save articles for later reading and revisit them anytime.",
+		"giscus": "Instantly share interesting articles with friends across multiple platforms.",
+		"decapcms": "Tracks reading time and interaction to improve content recommendations.",
+		"rss": "Connect with like-minded users through discussion forums.",
+		"articlegenerator": "Smarter content suggestions based on user interests."
+	},
+	"faq": {
+		"title": "Frequently Asked Questions"
+	},
+	"newsletter": {
+		"title": "Subscribe to our newsletter",
+		"subtitle": "Get notified for all updates",
+		"input_placeholder": "Enter your email",
+		"button_text": "Subscribe",
+		"privacy": "We care about the protection of your data. Read our",
+		"privacy_link": "Privacy Policy."
+	},
+	"blog": {
+		"prev": "Prev",
+		"next": "Next"
+	}
+}
